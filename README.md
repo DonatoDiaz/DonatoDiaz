@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @DonatoDiaz
-- 👀 I’m interested in medicine,AI,cybernetics.
-- 🌱 I’m currently learning python3,Java,C++.
-- 💞️ I’m looking to collaborate on idk
-- 📫 write to mail bakuraohara@gmail.com
+# 👋 Привет, я DonatoDiaz
 
-<!---
-DonatoDiaz/DonatoDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Медицина × ИИ × Кибернетика**
+
+Интересуюсь пересечением медицины и технологий: от нейроинтерфейсов и анализа данных до автоматизации рутины.
+
+---
+
+### 🔧 Направления
+
+- 🧠 Искусственный интеллект и машинное обучение
+- 🏥 Применение ИИ в медицине
+- 🐍 Python — основной инструмент
+
+### 📫 Контакт
+
+- GitHub: [@DonatoDiaz](https://github.com/DonatoDiaz)
+
+---
+
+> _Сейчас на нуле — проекты в архиве, начинаю заново._
