@@ -14,9 +14,24 @@
 
 ---
 
+### 🤝 Открыт к предложениям и заказам
+
+**Готов к фриланс-задачам, сотрудничеству и предложениям о работе.**  
+**Open to freelance work, cooperation and job offers.**  
+**接受自由职业任务、合作与工作机会。**
+
+Python, ML/DL, ИИ в медицине, парсинг, боты, автоматизация. Обсудим задачу — свяжитесь удобным способом.
+
+---
+
 ### 📫 Контакты / Contact / 联系
 
 - GitHub: [@DonatoDiaz](https://github.com/DonatoDiaz)
+- GitHub Issues: [Задать вопрос / Open an issue](https://github.com/DonatoDiaz/DonatoDiaz/issues)
+- Telegram: [@PaleSerpent](https://t.me/PaleSerpent)
+- Email: [bakuraohara@gmail.com](mailto:bakuraohara@gmail.com)
+- WeChat: `wxid_zueqkp2f795n22`
+- WhatsApp: [+7 (924) 003-88-80](https://wa.me/79240038880)
 
 ---
 
