@@ -24,6 +24,30 @@ Python, ML/DL, ИИ в медицине, парсинг, боты, автома�
 
 ---
 
+### 💚 Поддержать / Support
+
+Если мои проекты полезны — буду очень благодарен за поддержку.
+
+If my projects are helpful — I'd greatly appreciate your support.
+
+如果我的项目对你有帮助，欢迎支持我。
+
+- **Boosty:** [boosty.to/litianci](https://boosty.to/litianci?share=ios_blog_link)
+- **СБП / SBP:**  
+  ![СБП QR-код](./spbqr.jpeg)
+
+---
+
+### 🙏 Благодарности / Thanks
+
+Пока пусто. Спасибо всем, кто поддерживает!
+
+Empty for now. Thank you to everyone who supports me!
+
+暂时为空。感谢所有支持我的人！
+
+---
+
 ### 📫 Контакты / Contact / 联系
 
 - GitHub: [@DonatoDiaz](https://github.com/DonatoDiaz)
