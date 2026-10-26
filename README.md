@@ -33,12 +33,7 @@ If my projects are helpful — I'd greatly appreciate your support.
 如果我的项目对你有帮助，欢迎支持我。
 
 - **Boosty:** [boosty.to/litianci](https://boosty.to/litianci?share=ios_blog_link)
-
-**СБП / SBP**
-
-<p align="center">
-  <img src="./spbqr.jpeg" alt="СБП QR-код для перевода" width="300" />
-</p>
+- **СБП / SBP:** [+79957735880](tel:+79957735880)
 
 ---
 
